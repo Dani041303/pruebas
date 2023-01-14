@@ -1,15 +1,15 @@
 body
 {
     color: rgb(36, 36, 36);
+    background-color: rgb(199, 199, 199);
 
 }
-
 
 
 .title
 {
     border: 1px solid black;
-    background: rgb(97, 12, 97);
+    background: rgb(97, 12, 12);
 }
 h1 
 {
@@ -22,4 +22,9 @@ h1
 .box {
     border: 1px solid black;
     text-align: justify;
+}
+
+.footer {
+    border: 1px solid black;
+    text-align: center;
 }
